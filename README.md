@@ -1,2 +1,2 @@
-# magento-blog-module
-Create a module for magento
+# magento-blog-module Create Blog
+Create a module for magento 2
